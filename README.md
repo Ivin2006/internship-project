@@ -10,7 +10,7 @@ A responsive corporate website inspired by an architecture and interior design c
 
 ## Live Demo
 
-https://yourusername.github.io/repository-name/
+https://ivin2006.github.io/internship-project/
 
 ## Author
 
